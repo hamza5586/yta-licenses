@@ -1,7 +1,7 @@
 {
  "payload": {
-  "seq": 6,
-  "ts": 1795585048,
+  "seq": 7,
+  "ts": 1795585399,
   "revoked": [
    1,
    2,
@@ -10,12 +10,12 @@
   ],
   "latest": {
    "version": "v1.0.3",
-   "url": "sha256:b40c886e258cb6ebf37ebfe0cdff9ea20c2920d3454a6495aa11a6358239cb29",
+   "url": "https://github.com/hamza5586/yta-licenses/releases/download/v1.0.3/YT_Automater_By_Hamza_Setup.exe",
    "sha256": "b40c886e258cb6ebf37ebfe0cdff9ea20c2920d3454a6495aa11a6358239cb29",
    "size": 92048641,
-   "notes": "Improvements"
+   "notes": "improvements"
   },
   "patch": {}
  },
- "sig": "7V83mO8l05bxux1hE9NXaIHYb7gaNCjKySezsKjPkVOTn3pHO/UkPNcZYuCAQ60WeBsoG2PXytxS76bljc/pCw=="
+ "sig": "z9PbKqhadEdH6cd8jwGamy9GYZLaESzwoHwEviH/bmjuxmgjEKmSEvA1hmPMyBMR7vM1I7GcDOZ+uBcoMV4FDw=="
 }
