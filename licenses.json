@@ -1,19 +1,21 @@
 {
  "payload": {
-  "seq": 5,
-  "ts": 1795003117,
+  "seq": 6,
+  "ts": 1795585048,
   "revoked": [
+   1,
    2,
-   3
+   3,
+   5
   ],
   "latest": {
-   "version": "1.0.1",
-   "url": "https://github.com/hamza5586/yta-licenses/releases/download/v1.0.1/YT_Automater_By_Hamza_Setup.exe",
-   "sha256": "5b3b377900df40978ff29ce397b70f5b3f456a70c383ff839ab9444a3c5fcbb6",
-   "size": 89269827,
-   "notes": "Manus Update Security Updates"
+   "version": "v1.0.3",
+   "url": "sha256:b40c886e258cb6ebf37ebfe0cdff9ea20c2920d3454a6495aa11a6358239cb29",
+   "sha256": "b40c886e258cb6ebf37ebfe0cdff9ea20c2920d3454a6495aa11a6358239cb29",
+   "size": 92048641,
+   "notes": "Improvements"
   },
   "patch": {}
  },
- "sig": "nE4WGl0mdVyMvQnIYekoXjq9fRlOxP1GYhivfy7et/jtNTVk84htPpJaBB/PkNL3qxcuPg/LUpOS00sIeO/iCg=="
+ "sig": "7V83mO8l05bxux1hE9NXaIHYb7gaNCjKySezsKjPkVOTn3pHO/UkPNcZYuCAQ60WeBsoG2PXytxS76bljc/pCw=="
 }
