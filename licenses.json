@@ -1,7 +1,7 @@
 {
  "payload": {
-  "seq": 8,
-  "ts": 1795588928,
+  "seq": 9,
+  "ts": 1795671288,
   "revoked": [
    1,
    2,
@@ -9,13 +9,13 @@
    5
   ],
   "latest": {
-   "version": "v1.0.4",
-   "url": "https://github.com/hamza5586/yta-licenses/releases/download/v1.0.4/YT_Automater_By_Hamza_Setup.exe",
-   "sha256": "bcaee84d429d5e735b1cd8e50c4f9c7db410c3bfcf9121f88ec47bc05f072922",
-   "size": 114586790,
-   "notes": "Improve"
+   "version": "1.0.5",
+   "url": "https://github.com/hamza5586/yta-licenses/releases/download/v1.0.5/YT_Automater_By_Hamza_Setup.exe",
+   "sha256": "4db5bf77cf48e05364146dabf1362072b727149bc1c0f4bfabeb2b45b2b230d6",
+   "size": 114596468,
+   "notes": "New Updates"
   },
   "patch": {}
  },
- "sig": "oYJDopNY5P+Wgk940T2YoZcro6iSNvs0sagVTP3QsyCumhVJirmSfv86qQa0oOVMvM4OPKq9qHr4VUK/Q/jgCQ=="
+ "sig": "RLZO17SFLm2iJRzebY+1/g9dI+58jOvn8SXFQQx7AaCJb3lKFGLkC9srCcFPWPE9UvfkV0dtUzpxxo39PpmaDQ=="
 }
