@@ -1,7 +1,7 @@
 {
  "payload": {
-  "seq": 13,
-  "ts": 1795852210,
+  "seq": 14,
+  "ts": 1795859233,
   "revoked": [
    1,
    2,
@@ -15,7 +15,14 @@
    "size": 114681020,
    "notes": "update"
   },
-  "patch": {}
+  "patch": {
+   "base": "1.0.8",
+   "rev": 1,
+   "sha256": "8c7fb7aa48035d70de883ca3bd33cf1f7bb91221534d82ec87d81eae48d41ef6",
+   "size": 17101,
+   "notes": "update",
+   "url": "https://raw.githubusercontent.com/hamza5586/yta-licenses/main/patches/yta_patch_1.0.8_r1.zip"
+  }
  },
- "sig": "mLEZV61kUZcmFAmSSJBHOtQd/rxxyFzGml2gVI+ZkJO/d6cELaL8ZFLvey2Q3yQFmD74azxVmDNuS6RvPztxCw=="
+ "sig": "baWO5QroFba3MQsgVRzFIs17UVTeiu6q0Vt4Q4E2ifd8UVM/TY2GPYQN//LXyzazywithdHOyMbfrtrcbuxTCQ=="
 }
